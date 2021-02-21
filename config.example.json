@@ -1,0 +1,8 @@
+{
+  "BOT_TOKEN": "",
+  "GITHUB": {
+    "CLIENT_ID": "",
+    "SECRET_ID": "",
+    "OAUTH_URL": "https://github.com/login/oauth"
+  }
+}
